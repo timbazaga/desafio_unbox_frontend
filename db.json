@@ -1,0 +1,103 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Bloodshot",
+      "tituloOriginal": "Bloodshot",
+      "generos": [
+        {
+          "id": 1,
+          "codigoTheMovieDB": 28,
+          "descricao": "Ação"
+        },
+        {
+          "id": 2,
+          "codigoTheMovieDB": 11,
+          "descricao": "Aventura"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Ad Astra - Rumo às Estrelas",
+      "tituloOriginal": "Ad Astra",
+      "generos": [
+        {
+          "id": 1,
+          "codigoTheMovieDB": 28,
+          "descricao": "Ação"
+        },
+        {
+          "id": 2,
+          "codigoTheMovieDB": 11,
+          "descricao": "Aventura"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Homem-Formiga e a Vespa",
+      "tituloOriginal": "Ant-Man and the Wasp",
+      "generos": [
+        {
+          "id": 1,
+          "codigoTheMovieDB": 28,
+          "descricao": "Ação"
+        },
+        {
+          "id": 2,
+          "codigoTheMovieDB": 11,
+          "descricao": "Aventura"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Missão: Impossível - Efeito Fallout",
+      "tituloOriginal": "Mission: Impossible - Fallout",
+      "generos": [
+        {
+          "id": 1,
+          "codigoTheMovieDB": 28,
+          "descricao": "Ação"
+        },
+        {
+          "id": 2,
+          "codigoTheMovieDB": 11,
+          "descricao": "Aventura"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
+      "tituloOriginal": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "generos": [
+        {
+          "id": 1,
+          "codigoTheMovieDB": 28,
+          "descricao": "Ação"
+        },
+        {
+          "id": 2,
+          "codigoTheMovieDB": 11,
+          "descricao": "Aventura"
+        }
+      ]
+    }
+  ],
+  "generos": [
+    {
+      "descricao": "Ação",
+      "id": 1
+    },
+    {
+      "descricao": "Românce",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "descricao": "Comédia Romântica"
+    }
+  ]
+}
